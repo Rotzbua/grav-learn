@@ -9,7 +9,7 @@ Grav is intentionally designed with few requirements. You can easily run Grav on
 
 1. Web Server (Apache, Nginx, LiteSpeed, Lightly, IIS, etc.)
 
-2. PHP 7.3.6 or higher
+2. PHP 7.3.6 to 8.3, for newer php support use grav 1.8
 
 3. hmm... that's it really, (but please look at PHP requirements for a smooth experience)!
 
